@@ -11,13 +11,13 @@ Download the chimera1n deployment script and run in terminal with "sudo bash" wi
 
 > Why? Isn't there odysseyra1n, why not just use that?
 
-Odysseyra1n uses only libhooker for Tweak Injection, which can cause a few issues. For me in particular TetherMe doesn't work on o-ra1n (Some have reported it works for them) So it's just easier to use this. It also uses libhooker for the important low level stuff, so you don't give up any of that core stability.
+Odysseyra1n uses only libhooker for Tweak Injection, which can cause a few issues. For me in particular TetherMe doesn't work on o-ra1n (Some have reported it works for them) So it's just easier to use this. It also uses libhooker for the "low level patches", so you don't give up stability.
 
 
 
 > Long-Term Usablity and Downsides
 
-chimera1n no longer recieves sileo updates because it uses the Chimera boostrap. And it's time is limited since coolstar has a very shitty record of keeping repo's up for an extended period of time (look at electra, and sileo for checkra1n). Though I plan to host a mirror when Coolstar eventually shuts down the Chimera Repo.
+chimera1n no longer recieves sileo updates (stuck on 1.9) because it uses the Chimera boostrap. And it's time is limited since coolstar has a very shitty record of keeping repo's up for an extended period of time (look at electra, and sileo for checkra1n). Though I plan to host a mirror when Coolstar eventually shuts down the Chimera Repo.
 
 
 
