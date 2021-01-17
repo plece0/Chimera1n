@@ -33,4 +33,4 @@ Revert to an older version of Sileo (debs are in this repo). Sileo 1.9 is broken
 
 
 *Full Credit to Coolstar and the Electra Team for creating the Bootstrap and deployment script, All I did was reupload everything and redirect a few links in the script itself.*
-**Sidenote: When the Chimera repo eventually goes down (Look at Electra), I will reupload that as well.**
+**If there are any missing packages, see my other repo "chimera1n-repo" that has all the debs you need to get this jb working properly.**
