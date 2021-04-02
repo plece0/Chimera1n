@@ -15,14 +15,15 @@
 Since the chimera1n bootstrap has been completely replaced with o-ra1n. I thought I might as well reupload it. (simply reverting the o-ra1n github repo doesn't give chimera1n)
 
 ## Installation
-Jailbreak an iOS 13 device with checkra1n, don't open the loader app and connect to your pc.
+Jailbreak an iOS 12 -> 13 device with checkra1n, don't open the loader app and connect to your pc.
+(The Bootstrap itself supports iOS 11 -> 13, but checkra1n doesn't support iOS 11)
 
 - Download the deployment script
 - Run the deployment script with "sudo bash"
 - Do everything it tells you to
 - Profit.
 
-**This will (probably) not work on iOS 14+, don't bother trying.**
+**This will not work on iOS 14+.**
 
 ## Issues
 ### Whenever I press the Releases tab in Sileo it crashes!
